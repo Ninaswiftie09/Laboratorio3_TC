@@ -27,7 +27,7 @@ pip install graphviz
 - Cuando termine la instalación, reinicia VSCode o tu terminal
 
 ## Link del vídeo de Youtube
-[]
+[https://youtu.be/QA6sWf8XFyY]
 
 ## Integrantes:
 - Nina Nájera - 231088
